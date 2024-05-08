@@ -1,0 +1,26 @@
+// Placeholder to allow overriding predefined variables smoothly.
+
+/**
+ * Base Overrides
+ */
+ // Width of interactable content area
+$content-width-full:    100% !default;
+$spacing-unit-full:     0px !default;
+
+// Width of header/footer
+$content-width-padded:    97% !default;
+$spacing-unit-padded:     30px !default;
+
+/**
+ * Color Overrides
+ */
+//  $lm-background-color:      rgb(120, 34, 200);
+
+$header-background-color: #D0C5B5 !default;
+$footer-background-color: #D0C5B5 !default;
+
+
+/**
+ * Polygon
+ */
+ $polygon-background-color: #D4C5CD !default;
